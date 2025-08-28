@@ -9,3 +9,4 @@ JSON         25 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+![](diamant.jpg)
